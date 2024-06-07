@@ -1,0 +1,51 @@
+html{
+    background-color: darkgrey}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#m1{
+    height: 5oopx;
+    width: 500px;
+    border: 10px solid white;
+}
+#m2{
+    height: 5oopx;
+    width: 500px;
+    border: 10px solid white;
+
+}
+#m3{
+    height: 5oopx;
+    width: 500px;
+    border: 10px solid white;
+}
+#m4{
+    height: 5oopx;
+    width: 500px;
+    border: 10px solid white; 
+}
+h2{
+    text-align: center;
+    color: crimson;
+    font-style: italic;
+}
+#meme-1{
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+}
+#meme-2{
+    text-align: center;
+    padding: 50px;
+}
+#meme-3{
+    text-align: center;
+    padding: 50px;
+}
+#meme-4{
+    text-align: center;
+    padding: 50px;
+}
